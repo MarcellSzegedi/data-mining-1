@@ -1,7 +1,7 @@
 [project]
 name = "data-mining"
 version = "0.1.0"
-description = "Add your description here"
+description = "Implementation of the Assignment I. for Data Mining course (2025) at VU."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = []

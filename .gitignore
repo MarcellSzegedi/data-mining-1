@@ -17,3 +17,7 @@ wheels/
 *.png
 *.mp4
 *.html
+
+# Data files
+*.xlsx
+*.csv
