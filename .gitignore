@@ -5,6 +5,16 @@ build/
 dist/
 wheels/
 *.egg-info
+*.idea
 
 # Virtual environments
 .venv
+
+# PyCharm-generated files
+./idea
+
+# Visual outputs
+*.pdf
+*.png
+*.mp4
+*.html
