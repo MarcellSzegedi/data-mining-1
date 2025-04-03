@@ -1,4 +1,4 @@
-name: Tests
+name: Pytest
 
 on:
   pull_request:
@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  testing:
+  test:
     runs-on: ubuntu-latest
 
     steps:
