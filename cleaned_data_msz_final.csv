@@ -1,0 +1,244 @@
+﻿programme;experience_ml;experience_ir;experience_st;experience_db;gender;chatgpt_usage;birthday;count_students;stress_level;hours_spend_w_sport;bedtime;pleasant_thing_1;pleasant_thing_2
+AI;yes;0;mu;ja;male;yes;2001;400;78;0;240;food;Travel
+AI;yes;1;sigma;ja;female;yes;2002;321;100;2;272;nature;coffee
+Econometrics;yes;1;mu;ja;male;no willing to say;2001;200;100;4;270;other;Aperol
+Econometrics;yes;0;mu;nee;male;yes;2003;350;60;6;180;nature;Sun
+Bioinformatics;yes;1;mu;ja;male;yes;2000;500;50;8;240;other;-
+Econometrics;no;0;mu;nee;non-binary;no willing to say;2001;467;99,7;8;540;food;Bitterballen
+Econometrics;no;0;mu;ja;female;yes;1999;500;60;4;272;nature;Good food
+CS;yes;0;sigma;ja;male;no willing to say;2001;400;30;1;240;food;good grade
+AI;no;0;mu;ja;female;yes;2001;500;60;3;272;nature;Sun2
+CS;no;0;mu;ja;non-binary;no willing to say;2000;200;70;1;240;academic;Then smoke weed
+AI;yes;1;sigma;ja;female;yes;1999;250;100;4;180;food;Nice company 
+CS;yes;1;;ja;male;yes;1999;400;20;4,5;240;food;Beers
+Other;yes;1;mu;ja;male;yes;2000;345;60;8;225;food;Good sleep 
+AI;yes;1;mu;ja;male;no;2001;500;50;4;272;social;Dad‚Äôs card 
+CS;yes;1;;ja;female;no;2001;200;70;2;240;academic;Good sleep
+CS;no;0;mu;ja;male;yes;2001;500;100;0;360;academic;Sleeping
+AI;yes;1;sigma;ja;male;yes;1982;400;50;7;240;lazy;More drugs
+AI;no;0;mu;ja;female;yes;1998;400;30;10;240;food;Sports
+Bioinformatics;yes;0;;nee;female;yes;2002;200;100;0;196;lazy;Nothing 
+Econometrics;yes;0;sigma;ja;female;yes;2000;200;70;0;240;academic;Credit in balance
+AI;yes;1;mu;ja;male;yes;2003;200;5;12;300;nature;More sun
+AI;yes;1;mu;ja;male;yes;2001;500;8;6;240;other; 
+AI;yes;1;mu;ja;male;yes;2001;300;100;10;300;lazy;Freetime
+AI;no;0;mu;nee;male;yes;2000;300;20;3;272;social;Eating good food
+AI;yes;0;mu;ja;female;yes;2003;300;50;4;210;nature;Activity 
+CLS;no;0;mu;nee;female;yes;2001;500;15;12;270;food;Friends 
+Econometrics;no;0;mu;nee;female;no willing to say;2000;100;75;6;270;nature;Cappuccino
+AI;yes;0;mu;ja;female;yes;2001;550;100;7;240;nature;Food
+AI;yes;0;;ja;female;no willing to say;2001;190;2;4,5;300;nature;Hanging out with friends
+AI;yes;0;mu;ja;female;yes;2001;300;3;10;240;activity;company
+Econometrics;no;0;mu;nee;male;yes;1999;300;55;2;272;social;Nice warm weather
+AI;yes;0;mu;nee;male;yes;2000;456;20;9;237;activity;Delicious food
+AI;yes;1;sigma;ja;male;yes;2001;500;100;10;540;food;More alcohol
+CS;no;0;mu;ja;female;no;2000;100;100;1;240;academic;win lottery 
+AI;yes;1;sigma;ja;male;yes;2000;250;20;5;210;social;When I've learned something new
+AI;yes;0;mu;nee;male;yes;1997;250;80;4;480;activity;not having anxiety
+CLS;yes;0;mu;nee;male;yes;2002;487;30;7;150;activity;Free time
+Finance;yes;0;mu;nee;male;yes;2001;490;75;0;285;activity;drinking beers
+CS;yes;1;mu;ja;female;yes;2001;300;10;2;270;social;no work
+Other;yes;0;;ja;female;yes;2002;450;10;3;330;nature;No work
+AI;no;0;mu;ja;female;yes;2002;550;50;8;270;food;Sun 
+AI;yes;0;mu;ja;male;yes;2002;350;45;4;210;activity;Reaching the goals I set for myself that day
+Finance;yes;0;mu;ja;male;yes;2003;300;5;8;240;activity;Friends
+Econometrics;yes;1;mu;ja;female;yes;2002;450;89;7;220;food;Dog
+Econometrics;yes;1;mu;ja;male;no;2001;350;0;4;240;lazy;High grade
+AI;yes;1;mu;ja;male;no willing to say;2001;200;49;7;360;nature;Sun
+AI;yes;1;mu;ja;male;yes;2001;600;100;4;300;activity;Weed
+AI;yes;1;mu;ja;male;yes;2002;200;0;5,54625;360;other;Drugs
+AI;yes;1;mu;ja;female;yes;2001;320;70;12;239;nature;Interacting with my loved ones
+CS;no;0;mu;ja;male;yes;2001;200;30;5;240;lazy;can do anything
+Other;yes;1;sigma;ja;female;no willing to say;2001;300;72;2;240;food;Wine 
+CS;yes;1;mu;ja;male;no;1996;350;5;9;300;food;Kissing the homies for good night 
+AI;yes;0;sigma;nee;non-binary;yes;2001;450;60;3;480;other;Friends
+AI;no;0;mu;ja;female;yes;1998;150;60;2;360;food;Sunny day
+AI;yes;1;sigma;ja;female;yes;2001;375;6;10;180;other;Went to the gym
+AI;yes;0;mu;ja;male;yes;2000;200;13;6;240;nature;Pilsie
+AI;yes;1;mu;ja;male;yes;2001;350;0;5;480;activity;Videogames
+Econometrics;yes;0;mu;nee;female;yes;2001;500;2;4;240;academic;Travelling
+AI;no;0;mu;ja;male;yes;1999;400;60;6;270;other;Seeing my parents and my younger brother doing fine
+AI;no;0;mu;ja;male;yes;2001;187;11;7;240;activity;Edda
+AI;yes;1;mu;ja;female;no willing to say;2001;500;60;6;300;nature;more sun 
+CLS;no;0;mu;ja;female;yes;1997;350;35;7;300;activity;Healthy breakfast
+Bioinformatics;yes;1;mu;ja;male;no;1994;300;15;5;272;other;A bad day
+CS;yes;1;mu;ja;female;yes;2001;400;66;6;210;nature;Good grades 
+AI;yes;0;mu;nee;female;yes;2002;80;80;6;240;social;going to a rave
+AI;no;0;sigma;ja;male;yes;2001;500;100;2;240;nature;Sun
+CS;yes;1;;ja;female;yes;2001;450;20;0;240;nature;Chocolate
+AI;yes;0;mu;nee;male;yes;2001;450;90;10;270;nature;Having the time to run
+Econometrics;yes;0;mu;nee;male;no willing to say;2002;220;40;9;180;activity;Eat good food
+AI;yes;1;mu;ja;non-binary;no willing to say;2001;250;30;4;240;other;sun
+AI;yes;0;mu;ja;male;yes;2001;430;30;8;270;other;Not having to do things I don't want to do
+AI;yes;1;mu;ja;female;yes;1999;500;65;4;180;nature;not encountering a stressful situation
+CLS;yes;0;mu;ja;male;yes;2001;250;100;5;180;activity;Alcohol 
+Econometrics;yes;1;mu;ja;male;yes;2001;350;42;10;240;academic;Sun, exercise and beer
+CS;no;1;;nee;male;yes;2002;380;100;10;272;lazy;alcohol
+CS;yes;0;mu;ja;female;yes;2001;50;60;4;240;nature;Friends 
+AI;yes;0;mu;nee;male;yes;1998;350;15;6;180;nature;Chilling
+AI;yes;1;mu;ja;female;yes;2001;400;30;4;235;nature;Good food
+CLS;yes;0;mu;ja;female;yes;2001;330;47;12;225;food;Sun
+CLS;yes;0;mu;ja;female;yes;2001;350;10;12;360;nature;good food
+CS;yes;1;;nee;male;yes;2002;200;20;15;330;food;alcohol dose
+AI;yes;1;sigma;ja;male;yes;2001;250;20;3;270;lazy;nice weather
+Econometrics;yes;1;mu;ja;male;yes;2003;385;6;7;240;food;Sun
+CLS;yes;0;mu;nee;female;yes;2001;390;37;4;300;nature;Good food
+Econometrics;yes;0;mu;ja;male;yes;2002;375;50;4;240;activity;Active
+AI;yes;1;sigma;ja;male;yes;2001;195;0;10;272;other;Spots
+CS;no;0;sigma;nee;non-binary;yes;2001;300;30;4;240;nature;Sub
+Bioinformatics;no;1;mu;nee;female;yes;2002;234;40;7;210;food;Running in the sun
+CS;yes;1;mu;ja;non-binary;yes;2001;330;100;0;540;lazy;Interesting activities
+CLS;yes;0;mu;nee;male;yes;1998;480;75;3;240;academic;Socialising
+AI;yes;1;mu;ja;male;yes;2001;291;79;0;360;social;No assignment deadline!!!
+CS;yes;1;sigma;ja;male;no willing to say;2001;550;42;4;280;food;Eating pasta
+AI;yes;0;mu;ja;female;yes;2001;200;30;0;330;social;My friends 
+CS;yes;0;mu;ja;female;yes;2001;500;100;3;272;social;Sun
+AI;yes;1;;ja;non-binary;no willing to say;2002;420;100;8;272;other;-2
+Bioinformatics;no;0;sigma;nee;female;yes;2001;200;10;8;300;food;Nice weather
+Econometrics;yes;1;mu;ja;male;no willing to say;2003;350;85;7;330;food;Seeing my dog
+AI;yes;1;;ja;female;yes;2001;289;40;6;205;nature;Good exam result
+Econometrics;yes;1;mu;ja;female;no willing to say;2001;400;40;3;105;activity;No assignments
+CLS;yes;0;mu;ja;male;yes;2001;350;25;20;180;other;productive
+Bioinformatics;yes;0;mu;nee;male;yes;2002;250;0;7;180;nature;Sports
+CLS;yes;0;mu;nee;male;no willing to say;2001;250;100;5;270;social;Food
+AI;yes;0;mu;nee;male;yes;2001;600;100;10;180;social;Productivity
+Bioinformatics;yes;1;mu;nee;male;yes;1998;250;60;4;210;social;Candy
+Bioinformatics;yes;0;mu;nee;female;no willing to say;2001;600;40;0;272;other;love
+AI;yes;0;mu;ja;male;yes;2001;600;22;5;213;food;having a nice nap
+AI;yes;1;;ja;female;yes;2001;150;20;4;240;activity;No uni
+CS;yes;0;;ja;female;yes;2000;300;13;6;240;social;Food
+Econometrics;yes;1;mu;ja;male;yes;2004;425;5;3;180;social;No responsibilities
+Econometrics;yes;0;;ja;male;yes;2004;287;23;23;160;activity;Friends
+CLS;yes;0;mu;ja;male;no;2000;300;100;0;180;lazy;No deadlines
+AI;no;0;sigma;ja;male;yes;2002;300;30;7;270;activity;Good sleep
+CS;no;0;sigma;nee;female;yes;1999;220;67;4;480;other;go out with friends 
+CLS;no;0;mu;ja;male;yes;1991;300;1;7;300;academic;No lectures
+Bioinformatics;yes;0;;nee;male;yes;2000;500;69;10;240;nature;Friends
+Other;yes;0;;ja;male;no;2001;483;47,23622407;3;420;activity;Food
+AI;yes;1;mu;ja;male;yes;1999;300;75;4;180;academic;The sun
+AI;yes;1;mu;nee;female;yes;2001;450;60;1;210;nature;Free time
+Bioinformatics;no;0;mu;ja;male;yes;2001;240;100;2;420;academic;gaming
+Other;yes;1;mu;ja;male;yes;1997;357;7;5;420;other;You again :)
+Finance;yes;0;mu;ja;male;yes;2000;500;40;2;323;social;Smiling
+AI;no;0;mu;nee;male;yes;2001;297;69;6;240;academic;No assignments, no exam stress
+CS;no;0;;ja;male;no willing to say;2001;500;80;6;240;food;play 
+Other;yes;0;mu;nee;male;yes;2001;300;20;8;330;social;Activity and food
+Econometrics;yes;0;mu;ja;female;yes;1999;480;0;8;240;other;Nature
+Finance;yes;0;mu;nee;male;yes;2001;350;20;8;210;activity;Focus
+CLS;no;0;mu;nee;male;yes;2000;300;55;6;271;activity;Social interaction
+AI;yes;1;sigma;ja;non-binary;no willing to say;2001;500;100;3;360;academic;Learning
+CS;yes;1;mu;ja;male;yes;2003;366;57;6;280;activity;play a sport and instrument 
+AI;no;1;mu;ja;male;yes;2002;300;15;8;270;activity;Playing my bass guitar
+AI;yes;0;mu;nee;male;yes;2001;300;45;4;240;food;another beer
+AI;yes;0;;ja;male;yes;2001;123;90;4;474;other;social, speding quality time with friends
+CS;yes;1;;ja;male;yes;1999;300;75;3;420;social;GAMING
+CS;no;1;mu;ja;male;yes;2001;450;100;5,54625;240;other;Less money
+AI;yes;1;mu;ja;male;yes;2001;125;100;4,5;180;food;finish task
+AI;no;0;mu;ja;male;yes;2001;200;65;3;360;food;Motivation 
+AI;yes;0;sigma;ja;male;yes;2001;378;0;2;480;social;see above
+AI;yes;1;mu;ja;female;no willing to say;2002;200;30;5;210;academic;Nice weather
+AI;yes;1;mu;nee;female;yes;2001;400;40;10;240;academic;sun
+CS;yes;1;sigma;ja;male;no willing to say;2000;390;100;3;540;nature;Jamming with the homies
+Bioinformatics;yes;1;mu;nee;male;yes;2001;500;25;5;210;other;exercise
+Bioinformatics;yes;0;;nee;male;yes;2001;300;99;7;330;academic;nice weather
+CLS;no;0;sigma;nee;male;yes;2001;280;40;6;120;nature;Nice girls
+Bioinformatics;yes;0;mu;nee;female;no willing to say;2001;450;80;3;270;activity;going for a walk
+CS;yes;1;sigma;ja;male;no;1999;150;0;8;540;other;Fun 2
+Bioinformatics;no;0;sigma;ja;male;yes;2001;230;69;15;120;other;Sleeping 8 hours
+Econometrics;yes;0;mu;ja;female;yes;2002;250;50;0;272;academic;socializing 
+Other;yes;0;;ja;male;no willing to say;2001;118;24;6;240;other;Progress
+Bioinformatics;no;1;sigma;ja;female;yes;2002;375;30;6;210;nature;-
+CS;yes;1;sigma;ja;female;yes;2003;343;40;10;210;activity;Connect with some good person
+Econometrics;yes;0;mu;ja;female;no;2001;460;30;0;240;academic;sleeping
+CS;yes;1;mu;ja;female;yes;2001;200;30;5;150;activity;Meeting new people
+Other;yes;1;mu;ja;male;yes;2001;300;0;4;210;activity;Free time
+AI;yes;0;mu;ja;male;yes;2000;400;10;10;270;nature;Good food and sun
+CS;no;0;;ja;female;yes;2001;250;65;2;300;social;Sunny days
+AI;yes;0;mu;nee;female;yes;2001;340;40;9;300;social;Drinks
+AI;yes;0;mu;nee;female;yes;2001;400;35;6;300;nature;Nice food
+AI;yes;0;mu;ja;female;no;2001;250;100;4;240;nature;Drinking Matcha in the Sun
+CLS;yes;0;mu;nee;female;yes;2001;100;20;5;240;nature;no exam
+CS;no;1;sigma;ja;male;yes;1997;450;40;10;240;nature;Sports
+Other;yes;0;mu;ja;female;yes;2001;350;87;1;360;academic;time to make music
+Econometrics;yes;1;mu;ja;female;yes;2002;450;10;3,5;180;nature;friends
+AI;yes;0;mu;ja;female;yes;2001;450;25;2;360;nature;Food
+Econometrics;yes;1;mu;ja;female;yes;2000;400;60;7;180;activity;get outside
+AI;yes;1;mu;ja;male;yes;2001;400;40;16;150;activity;Positive people around me 
+Econometrics;yes;0;sigma;ja;male;yes;2002;380;40;12;150;nature;What makes a good day for you (2)? 
+AI;yes;0;mu;ja;female;yes;2001;550;20;3;300;food;Sunshine
+AI;yes;1;;ja;male;yes;2000;384;0;14;240;academic;music
+CS;no;1;mu;ja;male;yes;2001;450;30;6;420;activity;Good food for free
+Finance;yes;0;mu;nee;male;yes;2001;250;58;3;330;academic;Sports and guitar
+Econometrics;yes;1;mu;nee;male;no willing to say;2003;250;23,23;7;270;academic;nice food
+Finance;yes;0;mu;nee;male;no willing to say;2000;400;60;10;420;activity;Food
+Other;yes;0;mu;nee;non-binary;no;2001;600;100;5,54625;240;lazy;BangBros
+Econometrics;yes;1;sigma;ja;male;yes;2003;311;11;4;240;food;Fries
+AI;yes;1;mu;ja;male;yes;2002;300;15;20;210;other;-
+CS;yes;0;mu;ja;male;yes;2001;150;30;7;420;other;Bouldering and hanging with the homies
+AI;yes;1;mu;ja;female;yes;2003;450;50;8;180;food;Nobody dies 
+CLS;yes;0;mu;nee;female;no willing to say;2000;150;98;0;240;lazy;È≤úÈîÖÂÖî
+AI;yes;1;mu;ja;male;no willing to say;2000;400;10;8;300;nature;Free time
+CS;yes;1;;ja;male;no willing to say;2000;300;0;12;240;food;Good weather
+Bioinformatics;yes;0;mu;nee;female;yes;2002;350;30;2;150;food;More food
+AI;yes;1;mu;ja;female;yes;2001;380;23;3;272;food;Talking to friends
+AI;yes;1;mu;ja;male;no willing to say;1998;500;70;2;180;food;Good sleep
+Bioinformatics;yes;0;mu;nee;male;yes;2001;240;65;4;360;food;Gaming
+AI;no;0;mu;nee;male;no willing to say;2001;400;40;3;360;academic;Friends
+Econometrics;yes;1;sigma;ja;male;no willing to say;2003;220;22;9;360;nature;Sun
+AI;yes;1;mu;ja;female;yes;2002;253;55;4;303;nature;Laughter 
+Econometrics;yes;1;mu;ja;male;yes;2001;300;25;11;210;activity;Good food
+AI;yes;0;mu;ja;female;yes;2002;280;20;7;250;other;Doing something 
+CS;no;1;sigma;nee;male;yes;2001;230;8;6;337;food;Girlfriend
+Econometrics;yes;1;mu;ja;male;yes;2001;450;40;4,6;120;activity;Sun
+AI;no;0;mu;ja;female;yes;2001;200;20;8;240;activity;Friends
+AI;no;0;sigma;nee;male;yes;2001;350;60;6;272;nature;Great food
+Finance;yes;0;sigma;nee;male;yes;2001;550;65;2;240;food;Completing targetted task
+Econometrics;yes;0;sigma;nee;male;yes;2001;425;20;3;270;activity;Meditation
+AI;yes;1;mu;ja;male;yes;2003;300;15;9;180;activity;Time with friends
+Bioinformatics;yes;0;mu;ja;female;no willing to say;2002;350;70;4,5;255;food;Sun :))
+AI;no;0;;ja;female;yes;2000;500;70;1;270;nature;Good food
+Econometrics;yes;1;mu;ja;male;yes;2003;350;15;10;210;food;Apple
+CS;yes;0;mu;ja;male;yes;2001;250;10;2;330;lazy;yes
+Econometrics;no;0;mu;nee;female;no willing to say;2001;200;60;3;272;nature;Rest
+AI;yes;0;mu;ja;female;yes;2001;100;77;0;540;activity;Good food
+CS;yes;1;mu;ja;male;no willing to say;2000;50;47,23622407;2;420;other;ü§∑‚Äç‚ôÇÔ∏è
+CS;yes;0;mu;ja;male;no;2001;180;58;4;300;food;Science
+Econometrics;yes;1;;ja;female;yes;2002;200;65;4;210;nature;Good food
+Bioinformatics;yes;0;;nee;male;no willing to say;2001;350;47;5;273;nature;Friends
+Bioinformatics;yes;0;mu;nee;female;yes;2000;220;63;5;150;nature;Friends
+AI;yes;0;mu;ja;female;yes;2003;230;80;4;210;food;good sleep
+Econometrics;yes;1;sigma;ja;female;yes;2003;458;70;1;255;nature;Family
+Econometrics;yes;0;mu;nee;male;yes;2001;350;69;4;330;social;Being productive
+AI;no;0;;ja;male;yes;2003;210;50;2;300;social;Dinner with family
+CS;no;0;mu;nee;male;yes;2001;150;85;10;240;nature;Stock trading profit
+Other;yes;0;sigma;nee;male;yes;2001;234;75;4;510;activity;A sunny picnic
+Other;yes;0;mu;ja;male;yes;2000;450;100;0;540;nature;Good food
+AI;yes;1;sigma;ja;female;yes;2002;400;75;3;360;food;Seeing friends
+AI;yes;1;sigma;nee;male;no willing to say;2000;300;61;6;225;food;Fun people
+AI;yes;0;mu;ja;male;yes;2001;420;20;12;165;activity;Meeting friends
+Econometrics;yes;1;mu;ja;female;yes;2001;320;40;0;480;activity;Free
+CS;no;0;mu;ja;female;yes;2000;450;5;10;300;nature;eating good food
+Econometrics;yes;1;sigma;nee;male;no willing to say;2001;150;10;10;300;nature;Nice friends
+Econometrics;yes;0;mu;ja;female;yes;1999;400;2;5;272;other;Good food
+Bioinformatics;yes;0;sigma;ja;male;yes;2001;500;20;5;195;activity;Enjoy the weather
+AI;yes;1;sigma;ja;male;yes;2001;600;69;14;360;other;Petting a cat
+CS;yes;1;mu;ja;female;yes;2000;450;70;2;270;activity;sun
+Bioinformatics;yes;0;mu;nee;male;yes;1999;450;8;5;375;social;No school
+AI;yes;0;mu;ja;female;yes;2003;330;40;3;300;nature;Seeing my loved ones 
+AI;yes;1;mu;ja;male;yes;2003;387;2;13;240;activity;eating
+AI;yes;1;mu;ja;female;yes;2002;300;20;4;240;activity;F1
+AI;yes;0;mu;nee;female;yes;2001;380;50;8;250;nature;spending time with my friends
+AI;yes;1;mu;ja;female;yes;2002;500;85;3;270;social;No academic stress
+Econometrics;yes;0;sigma;ja;female;yes;2002;350;70;1;240;nature;Good food
+AI;yes;1;sigma;nee;male;yes;1992;400;33;2;240;food;Hiking
+AI;yes;1;mu;ja;female;yes;2000;350;20;3;180;social;Sunny weather
+AI;yes;0;mu;nee;male;yes;2001;380;40;2;90;food;Sun
+AI;yes;1;sigma;ja;male;yes;2003;320;15;7;210;nature;Company 
+CS;no;0;;ja;male;no willing to say;2000;520;50;10;240;nature;wind
+Other;yes;1;;ja;female;yes;2001;450;69;6;300;other;Reading
+Other;yes;1;mu;ja;male;yes;2001;350;99;5;294;academic;Good weather
+AI;no;1;mu;ja;male;yes;2001;550;40;0;480;activity;I get a lot done
+CS;yes;1;mu;ja;male;no willing to say;2002;460;60;5;330;activity;Sun and a chest PR
+CS;yes;0;sigma;ja;male;no willing to say;2003;300;35;5;360;nature;2 beers in the sun
+CS;yes;1;mu;ja;female;yes;2002;450;75;5;240;activity;Smoke
+CLS;no;0;mu;ja;male;no;2001;200;45;1;360;lazy;get at least one thing done
